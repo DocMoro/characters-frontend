@@ -16,7 +16,7 @@
 - Разделение пользователей по правам,
 - Возможность редактировать базу данных карточек для администрации.
 ----------------------------------------------------------
-![Персонажи](https://drive.google.com/file/d/15CCry2OPaTMZzXjJciB9lec0QQYCwLkh/view?usp=sharing)
-![Заклинания](https://drive.google.com/file/d/1LZgIEqW0xJQ2dZD_68yo6jJIxwKge2wK/view?usp=sharing)
+![Персонажи](https://github.com/DocMoro/image/raw/main/image/person.jpg)\n
+![Заклинания](https://github.com/DocMoro/image/raw/main/image/spells.jpg)
 ----------------------------------------------------------
 *Домен:* [https://dnd-characters.ru]
